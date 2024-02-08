@@ -9,7 +9,8 @@ public class Bee003 {
 		firstValue = inputValues.nextInt();
 		secondValue = inputValues.nextInt();
 		result = firstValue + secondValue;
-		System.out.printf("Soma = "+ result);
+		System.out.printf("SOMA = "+ result);
+		System.out.printf("\n");
 	}
 
 }
